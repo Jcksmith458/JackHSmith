@@ -1,0 +1,356 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body  {
+	background-color:  #000;  
+}
+
+#nav  {
+	position:  fixed;
+	top:  0;
+	left:  0;
+	width:  100%;
+	height:  50px;
+	background-color:  #FFF;
+	border-bottom-color:  #360;
+	border-bottom-style:  solid;
+	border-bottom-width:  medium;
+}
+
+#nav  ul  {
+	width:  100%;
+	height:  50px;
+}
+
+#nav  li  {
+	width:  10%;
+	height:  50px;
+	float:  left;
+	color:  #000;
+	list-style:  none;
+	padding-left:  8%;
+	margin-left:  auto;
+	margin-right:  auto;
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  900;
+}
+
+#nav  li:hover  {
+	color:  #063;
+}
+
+#banner  {
+	background-image:  url(../images/Logo.png);
+	margin-top:  30px;
+	width:  700px;
+	height:  663px;
+	margin-left:  auto;
+	margin-right:  auto;
+}
+
+#video  {
+	background-image:  url(../images/video.png);
+	width:  650px;
+	height:  100px;
+	margin-top:  100px;
+	left:  0;
+}
+
+#ISD  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-left:  5%;
+	float:  left;
+	width:  45%;
+}
+
+#theKill  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	float:  right;
+	width:  45%;
+}
+
+#ISDvid  {
+	width:  45%;
+	height:  400px;
+	margin-left:  50px;
+	float:  left;
+}
+
+#theKillvid  {
+	width:  45%;
+	height:  400px;
+	float:  right;
+}
+
+#swag  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-left:  5%;
+	margin-top:  50px;
+	float:  left;
+	width:  45%;
+}
+
+#howto  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-top:  50px;
+	float:  right;
+	width:  45%;
+}
+
+#swagvid  {
+	width:  45%;
+	height:  400px;
+	margin-left:  50px;
+	float:  left;
+}
+
+#howtovid  {
+	width:  45%;
+	height:  400px;
+	float:  right;
+}
+
+#fortville  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-left:  5%;
+	margin-top:  50px;
+	float:  left;
+	width:  45%;
+}
+
+#newjack  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-top:  50px;
+	float:  right;
+	width:  45%;
+}
+
+#fortvillevid  {
+	width:  45%;
+	height:  400px;
+	margin-left:  50px;
+	float:  left;
+}
+
+#newjackvid  {
+	width:  45%;
+	height:  400px;
+	float:  right;
+}
+
+#motion  {
+	background-image:  url(../images/motion.png);
+	width:  650px;
+	height:  100px;
+	float:  right;
+	margin-top:  75px;
+}
+
+#ghettochip  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-left:  5%;
+	margin-top:  50px;
+	float:  left;
+	width:  45%;
+}
+
+#damage  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-top:  50px;
+	float:  right;
+	width:  45%;
+}
+
+#ghettochipvid  {
+	width:  45%;
+	height:  400px;
+	margin-left:  50px;
+	float:  left;
+}
+
+#damagevid  {
+	width:  45%;
+	height:  400px;
+	float:  right;
+}
+
+#muncie  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  36px;
+	color:  #FFF;
+	margin-left:  5%;
+	margin-top:  50px;
+	float:  left;
+	width:  45%;
+}
+
+#space  {
+	font-family:  Georgia, "Times New Roman", Times, serif;
+	font-size:  36px;
+	color:  #FFF;
+	margin-top:  50px;
+	float:  right;
+	width:  45%;
+}
+
+#space  p.black  {
+	color:  #000;
+}
+
+#muncievid  {
+	width:  45%;
+	height:  400px;
+	margin-left:  50px;
+	float:  left;
+}
+
+#web  {
+	background-image:  url(../images/web.png);
+	width:  650px;
+	height:  100px;
+	float:  left;
+	margin-top:  75px;
+}
+
+#webtext  {
+	margin-top:  50px;
+	margin-left:  5%;
+	color:  #FFF;
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  24px;
+	width:  90%;
+	float:  left;
+}
+
+#voice  {
+	background-image:  url(../images/voice.png);
+	width:  650px;
+	height:  100px;
+	float:  right;
+	margin-top:  75px;
+}
+
+#voicetext  {
+	margin-top:  50px;
+	margin-left:  5%;
+	color:  #FFF;
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  24px;
+	width:  90%;
+	float:  left;
+}
+
+#voicetext  p.title  {
+	font-size:  36px;
+}
+
+#bookmart  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  32px;
+	color:  #FFF;
+	margin-left:  5%;
+	float:  left;
+	width:  45%;
+}
+
+#putinbay  {
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  32px;
+	color:  #FFF;
+	float:  right;
+	width:  45%;
+}
+
+#bookmartaudio  {
+	width:  45%;
+	height:  50px;
+	margin-left:  55px;
+	float:  left;
+}
+
+#putinbayaudio  {
+	width:  45%;
+	height:  50px;
+	float:  right;
+}
+
+#isdvoice  {
+	margin-left:  5%;
+	color:  #FFF;
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  24px;
+	width:  90%;
+	float:  left;
+}
+
+#contact  {
+	background-image:  url(../images/contact.png);
+	width:  650px;
+	height:  100px;
+	float:  left;
+	margin-top:  75px;
+}
+
+#contactinfo  {
+	margin-left:  5%;
+	margin-top:  30px;
+	margin-bottom:  50px;
+	color:  #FFF;
+	font-family:  'Josefin Sans', sans-serif;
+	font-weight:  400;
+	font-size:  24px;
+	width:  90%;
+	float:  left;
+}
+
+a  {
+	color:  #063;
+}
+
+#motionnav  {
+	width:  100%;
+	height:  5px;
+	float:  left;
+}
+
+#webnav  {
+	width:  100%;
+	height:  5px;
+	float:  right;
+}
+
+#voicenav  {
+	width:  100%;
+	height:  5px;
+	float:  left;
+}
