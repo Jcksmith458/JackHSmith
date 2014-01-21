@@ -209,7 +209,7 @@ body  {
 	width:  45%;
 }
 
-#space  {
+#pawprints  {
 	font-family:  Georgia, "Times New Roman", Times, serif;
 	font-size:  36px;
 	color:  #FFF;
@@ -227,6 +227,12 @@ body  {
 	height:  400px;
 	margin-left:  50px;
 	float:  left;
+}
+
+#pawprintsvid  {
+	width:  45%;
+	height:  400px;
+	float:  right;
 }
 
 #web  {
