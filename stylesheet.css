@@ -49,7 +49,7 @@ body  {
 }
 
 #video  {
-	background-image:  url(../images/video.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith/images/video.png);
 	width:  650px;
 	height:  100px;
 	margin-top:  100px;
@@ -157,7 +157,7 @@ body  {
 }
 
 #motion  {
-	background-image:  url(../images/motion.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith/images/motion.png);
 	width:  650px;
 	height:  100px;
 	float:  right;
@@ -230,7 +230,7 @@ body  {
 }
 
 #web  {
-	background-image:  url(../images/web.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith/images/web.png);
 	width:  650px;
 	height:  100px;
 	float:  left;
@@ -249,7 +249,7 @@ body  {
 }
 
 #voice  {
-	background-image:  url(../images/voice.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith/images/voice.png);
 	width:  650px;
 	height:  100px;
 	float:  right;
@@ -314,7 +314,7 @@ body  {
 }
 
 #contact  {
-	background-image:  url(../images/contact.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith/images/contact.png);
 	width:  650px;
 	height:  100px;
 	float:  left;
