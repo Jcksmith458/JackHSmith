@@ -39,7 +39,7 @@ body  {
 }
 
 #videoLink  {
-	background-image:  url(../iamges/home_videoLink.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_videoLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -50,11 +50,11 @@ body  {
 }
 
 #videoLink:hover  {
-	background-image:  url(../iamges/home_videoLinkHover.png);	
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_videoLinkHover.png);	
 }
 
 #motionLink  {
-	background-image:  url(../iamges/home_motionLink.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_motionLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -66,11 +66,11 @@ body  {
 }
 
 #motionLink:hover  {
-	background-image:  url(../iamges/home_motionLinkHover.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_motionLinkHover.png);
 }
 
 #webLink  {
-	background-image:  url(../iamges/home_webLink.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_webLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -81,7 +81,7 @@ body  {
 }
 
 #webLink:hover  {
-	background-image:  url(../iamges/home_webLinkHover.png);	
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_webLinkHover.png);	
 }
 
 #name  {
