@@ -5,429 +5,62 @@ body  {
 	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/bgrdRepeat.png);
 }
 
-#logo  {
-	position:  fixed;
-	top: 0;
-	left:  5;
-	background-image:url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/logo-w-tri.png);
-	width:  150px;
-	height:  100px;	
-	z-index:  100;
-}
-
-#white  {
-	background-color:  #FFF;
-	width:  100%;
-	height:  150px;	
-	position:  fixed;
-	left:  0;
-	top:  0;
-	margin:  0 0 0 0;
-	z-index:  10;
-}
-
-#contact  {
-	position:  fixed;
-	top: 0;
-	right:  0;
-	width:  250px;
-	height:  100px;	
-	z-index:  100;
-	font-family: 'Raleway', sans-serif;
-}
-
-#contact  p.call  {
-	margin-top:  -10px;	
-}
-
-#navbar  {
+#bar  {
 	background-color:  #000;
-	width:  100%;
-	height:  75px;	
-	position:  fixed;
-	left:  0%;
-	top:  80px;
-	margin:  0 0 0 0;
+	width:  1280px;
+	height:  342px;	
+	position:  absolute;
+	left:  50%;
+	top:  50%;
+	margin:  -234px 0 0 -1280px;
 	z-index:  50;
 }
 
-a:link  {
-	color:  #FFF;
-	text-decoration:  none;	
-}
-
-a:link.email   {
-	color:  #000;
-	text-decoration:  underline;	
-}
-
-a:visited  {
-	color:  #FFF;	
-}
-
-a:hover  {
-	border-top-color:  #FFF;
-	border-top-style:  solid;
-	border-top-width:  1px;	
-}
-
-#navbar  ul  {
-	width:  85%;
-	height:  75px;
+#minibar  {
+	background-color:  #CADDC5;
+	width:  1280px;
+	height:  56px;	
 	position:  absolute;
-	right:  0;
+	left:  50%;
+	top:  50%;
+	margin:  107px 0 0 -1280px;
+	z-index:  50;
 }
 
-#navbar  li  {
-	width:  10%;
-	height:  75px;
-	float:  left;
-	list-style:  none;
-	padding-left:  12%;
-	margin-left:  auto;
-	margin-right:  auto;
-	margin-top:  10px;
-	font-family: 'Raleway', sans-serif;
-	color:  #FFF;
-	text-decoration:  none;
-}
-
-#triangle  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/triangle.png);
-	width:  75px;
-	height:  75px;
-	position:  fixed;
-	left:  10%;
-	top: 0;
-	z-index:  120; 	
-}
-
-#videography  {
-	width:  100%;
-	height:  75px;
-	color:  #000;
-	font-size:  36px;
+#superContainer  {
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/homeImage.png);
+	width:  1280px;
+	height:  800px;	
 	position:  absolute;
-	margin-top:  150px;
-	margin-left:  15%;
-	z-index:  9;
-	font-family:  'Raleway', sans-serif;	
+	left:  50%;
+	top:  50%;
+	margin:  -400px 0 0 -640px;
+	z-index:  50;
 }
 
-#videography  p.disclaimer  {
-	font-size:  16px;
-	margin-top:  -35px;	
-}
-
-#vid1  {
-	width: 80%;
-	height:  400px;
+#name  {
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/jsmith.png);
+	width:  490px;
+	height:  350px;	
 	position:  absolute;
-	margin-top:  300px;
-	margin-left:  15%;
+	left:  50%;
+	top:  50%;
+	margin:  -240px 0 0 -245px;
+	z-index:  50;
+	opacity:  0.9;
 }
 
-#text  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#text  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#vid1  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid1  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#vid2  {
-	width: 80%;
-	height:  400px;
+#name:hover  {
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/jsmith.png);
+	width:  490px;
+	height:  350px;	
 	position:  absolute;
-	margin-top:  500px;
-	margin-left:  15%;	
+	left:  50%;
+	top:  50%;
+	margin:  -240px 0 0 -245px;
+	z-index:  50;
+	opacity:  1;
 }
 
-#vid2  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
 
-#vid2  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
 
-#vid2  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text2  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#text2  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text2  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#vid3  {
-	margin-top:  25px;	
-}
-
-#vid3  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
-
-#vid3  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid3  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text3  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#text3  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text3  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#vid4  {
-	margin-top:  25px;	
-}
-
-#vid4  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
-
-#vid4  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid4  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text4  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#text4  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text4  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#vid5  {
-	margin-top:  25px;	
-}
-
-#vid5  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
-
-#vid5  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid5  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text5  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#text5  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#text5  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text5  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#vid6  {
-	margin-top:  25px;	
-}
-
-#vid6  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
-
-#vid6  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid6  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text6  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#text6  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#text6  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text6  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#vid7  {
-	margin-top:  25px;	
-}
-
-#vid7  p  {
-	position:  relative;
-	margin-top:  -150px;
-	margin-left:  300px;	
-}
-
-#vid7  p.shot  {
-	margin-top:  0px;
-	margin-left:  300px;
-	paddint-top:  -10px;	
-}
-
-#vid7  p.edit  {
-	margin-top:  0px;
-	margin-left:  300px;	
-}
-
-#text7  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
-
-#text7  p.kerepesi  {
-	font-weight:  600;	
-}
-
-#text7  p  {
-	margin-top:  -150px;
-	margin-left:  300px;
-	font-family:  'Raleway', sans-serif;
-	font-weight:  500;
-	padding-top:  10px;	
-}
-
-#text7  {
-	width:  800px;
-	height:  175px;
-	word-wrap:  break-word;
-	color:  #000;
-	margin-top:  -179px;
-}
