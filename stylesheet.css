@@ -2,14 +2,14 @@
 /* CSS Document */
 
 body  {
-	background-image:  url(../iamges/bgrdRepeat.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/bgrdRepeat.png);
 }
 
 #logo  {
 	position:  fixed;
 	top: 0;
 	left:  5;
-	background-image:url(../iamges/logo-w-tri.png);
+	background-image:url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/logo-w-tri.png);
 	width:  150px;
 	height:  100px;	
 	z-index:  100;
@@ -93,7 +93,7 @@ a:hover  {
 }
 
 #triangle  {
-	background-image:  url(../iamges/triangle.png);
+	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/triangle.png);
 	width:  75px;
 	height:  75px;
 	position:  fixed;
