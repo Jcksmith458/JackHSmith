@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/bgrdRepeat.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/bgrdRepeat.png);
 }
 
 #bar  {
@@ -28,7 +28,7 @@ body  {
 }
 
 #superContainer  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/homeImage_noWords.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/homeImage_noWords.png);
 	width:  1280px;
 	height:  800px;	
 	position:  absolute;
@@ -39,7 +39,7 @@ body  {
 }
 
 #videoLink  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_videoLink.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_videoLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -50,11 +50,11 @@ body  {
 }
 
 #videoLink:hover  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_videoLinkHover.png);	
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_videoLinkHover.png);	
 }
 
 #motionLink  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_motionLink.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_motionLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -66,11 +66,11 @@ body  {
 }
 
 #motionLink:hover  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_motionLinkHover.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_motionLinkHover.png);
 }
 
 #webLink  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_webLink.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_webLink.png);
 	width:  150px;
 	height:  50px;	
 	position:  absolute;
@@ -81,11 +81,11 @@ body  {
 }
 
 #webLink:hover  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/home_webLinkHover.png);	
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/home_webLinkHover.png);	
 }
 
 #name  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/jsmith.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/jsmith.png);
 	width:  490px;
 	height:  350px;	
 	position:  absolute;
@@ -97,7 +97,7 @@ body  {
 }
 
 #name:hover  {
-	background-image:  url(http://jhsmith.iweb.bsu.edu/jacksmith15/iamges/jsmith.png);
+	background-image:  url(http://jhsmith.bsu.edu/jacksmith15/iamges/jsmith.png);
 	width:  490px;
 	height:  350px;	
 	position:  absolute;
